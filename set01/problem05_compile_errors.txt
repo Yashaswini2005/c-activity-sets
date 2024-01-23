@@ -1,0 +1,40 @@
+Compilation started at 1/23/2024, 10:03:22 AM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c: In function 'input':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:16:5: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+     printf("enter the  numbers:");
+     ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:16:5: warning: incompatible implicit declaration of built-in function 'printf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:16:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:17:5: warning: implicit declaration of function 'scanf' [-Wimplicit-function-declaration]
+     scanf("%d",&n);
+     ^~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:17:5: warning: incompatible implicit declaration of built-in function 'scanf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:17:5: note: include '<stdio.h>' or provide a declaration of 'scanf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c: In function 'output':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:33:5: warning: incompatible implicit declaration of built-in function 'printf'
+     printf("the largest among all the three numbers is %d",largest);
+     ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:33:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+Compilation finished at 1/23/2024, 10:03:23 AM
+Compilation started at 1/23/2024, 10:04:18 AM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c: In function 'input':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:16:5: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+     printf("enter the  numbers:");
+     ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:16:5: warning: incompatible implicit declaration of built-in function 'printf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:16:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:17:5: warning: implicit declaration of function 'scanf' [-Wimplicit-function-declaration]
+     scanf("%d",&n);
+     ^~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:17:5: warning: incompatible implicit declaration of built-in function 'scanf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:17:5: note: include '<stdio.h>' or provide a declaration of 'scanf'
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c: In function 'output':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:33:5: warning: incompatible implicit declaration of built-in function 'printf'
+     printf("the largest among all the three numbers is %d",largest);
+     ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem05.c:33:5: note: include '<stdio.h>' or provide a declaration of 'printf'
+Compilation finished at 1/23/2024, 10:04:18 AM
+Compilation started at 1/23/2024, 10:06:36 AM
+Compilation finished at 1/23/2024, 10:06:36 AM
+Compilation started at 1/23/2024, 10:08:06 AM
+Compilation finished at 1/23/2024, 10:08:06 AM
