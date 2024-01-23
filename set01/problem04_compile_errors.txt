@@ -1,0 +1,23 @@
+Compilation started at 1/23/2024, 9:18:50 AM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem04.c: In function 'input':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem04.c:4:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'void'
+ void output(int n, int sum);
+ ^~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem04.c:5:11: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ int main(){
+           ^
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem04.c:11:23: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+     void input(int *n){
+                       ^
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem04.c:15:29: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+     void sum(int n,int *sum){
+                             ^
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem04.c:21:32: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+     void output(int n, int sum){
+                                ^
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem04.c:23:5: error: expected '{' at end of input
+     }
+     ^
+Compilation finished at 1/23/2024, 9:18:50 AM
+Compilation started at 1/23/2024, 9:19:37 AM
+Compilation finished at 1/23/2024, 9:19:38 AM
