@@ -16,3 +16,14 @@ C:\Users\Vinayaka\AppData\Local\Temp\ccKo7L8A.o: In function `input':
 c:/Users/Vinayaka/OneDrive/Documents/GitHub/c-activity-sets/set01/problem09.c:16: undefined reference to `scnaf'
 collect2.exe: error: ld returned 1 exit status
 Compilation finished at 1/24/2024, 10:32:50 AM
+Compilation started at 1/24/2024, 10:33:57 AM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem09.c: In function 'input':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem09.c:16:5: warning: implicit declaration of function 'scnaf' [-Wimplicit-function-declaration]
+     scnaf("%f",&n);
+     ^~~~~
+C:\Users\Vinayaka\AppData\Local\Temp\ccI27l5d.o: In function `input':
+c:/Users/Vinayaka/OneDrive/Documents/GitHub/c-activity-sets/set01/problem09.c:16: undefined reference to `scnaf'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/24/2024, 10:33:57 AM
+Compilation started at 1/24/2024, 10:34:39 AM
+Compilation finished at 1/24/2024, 10:34:39 AM

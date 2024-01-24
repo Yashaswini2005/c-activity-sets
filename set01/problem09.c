@@ -13,7 +13,7 @@ int main(){
 float input(){
     float n;
     printf("enter the number");
-    scnaf("%f",&n);
+    scanf("%f",&n);
     return n;
 
 }
@@ -21,7 +21,7 @@ float square_root(float n)
 {
     float x_old=1;
     float x_new=n/2;
-    float precision=0.000001;
+    float precision=0.0000001;
     while (fabs(x_new-x_old)>precision)
     {
         x_old=x_new;
