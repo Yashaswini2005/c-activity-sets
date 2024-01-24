@@ -1,0 +1,12 @@
+Compilation started at 1/23/2024, 10:55:31 AM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem07.c: In function 'main':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem07.c:7:6: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+     n=input_n;
+      ^
+Compilation finished at 1/23/2024, 10:55:32 AM
+Compilation started at 1/23/2024, 10:56:39 AM
+Compilation finished at 1/23/2024, 10:56:39 AM
+Compilation started at 1/23/2024, 10:57:06 AM
+Compilation finished at 1/23/2024, 10:57:06 AM
+Compilation started at 1/24/2024, 9:13:49 AM
+Compilation finished at 1/24/2024, 9:13:50 AM
