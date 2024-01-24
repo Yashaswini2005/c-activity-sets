@@ -1,0 +1,9 @@
+Compilation started at 1/24/2024, 9:44:50 PM
+Compilation finished at 1/24/2024, 9:44:51 PM
+Compilation started at 1/24/2024, 9:46:20 PM
+C:\Users\Vinayaka\AppData\Local\Temp\ccM9JxsY.o: In function `main':
+c:/Users/Vinayaka/OneDrive/Documents/GitHub/c-activity-sets/set01/problem10.c:11: undefined reference to `stringcompare'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/24/2024, 9:46:21 PM
+Compilation started at 1/24/2024, 9:46:49 PM
+Compilation finished at 1/24/2024, 9:46:49 PM
