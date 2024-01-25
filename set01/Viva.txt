@@ -1,0 +1,16 @@
+what is #
+lines preprocessed by preprocesser
+
+what is preprocceser?
+which converts source code to  before compilation
+
+what is gcc?
+converts c source file to executable file 
+
+what is a meaning of processing a line starts with #?
+it will do the function which #line indicates
+
+
+
+
+
