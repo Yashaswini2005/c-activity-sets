@@ -1,0 +1,32 @@
+what is #
+it indicates the lines which has to be preprocessed by the preprocesser
+ 
+what is preprocceser?
+which converts source code to  before compilation
+basically we can we see #lines before preprocessing but after preprocessing we cannot see the lines starting with #
+
+what is compiler?
+converts c source file to executable file 
+
+
+what is preproccessor directive ?
+tells preprocessor what to do
+
+what is the effect of #include<stdio.h>?
+Contains function prototype of printf and scanf.
+
+what is stdio.h?
+library header file contains input and output functions
+
+what is function prototype?
+consists 
+
+
+
+
+
+
+
+
+
+
