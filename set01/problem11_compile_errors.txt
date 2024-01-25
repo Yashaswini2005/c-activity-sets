@@ -1,0 +1,11 @@
+Compilation started at 1/25/2024, 9:28:12 AM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem11.c: In function 'main':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\problem11.c:16:5: warning: implicit declaration of function 'ouput' [-Wimplicit-function-declaration]
+     ouput(complex1,complex2);
+     ^~~~~
+C:\Users\Vinayaka\AppData\Local\Temp\cccB9qsz.o: In function `main':
+c:/Users/Vinayaka/OneDrive/Documents/GitHub/c-activity-sets/set01/problem11.c:16: undefined reference to `ouput'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/25/2024, 9:28:13 AM
+Compilation started at 1/25/2024, 9:29:24 AM
+Compilation finished at 1/25/2024, 9:29:25 AM
