@@ -19,7 +19,36 @@ what is stdio.h?
 library header file contains input and output functions
 
 what is function prototype?
-consists 
+consists of return typr,function name,and list of arguments
+
+
+what is the use of function prototype?
+checks function call is passing right numbers and type of parameters and return value is assined to a right value 
+what is main()?
+it is a function 
+ 
+ =Main is the starting part of a program
+
+what does main return?
+an integer value.
+
+what is printf?
+printf is a stdlibrary function used to print a string on the console terminal .
+
+what is meaning of "\"  in printf?
+it is an escape sequence.
+
+what is \n?
+move cursor to next line in the console terminal .
+
+what is return 0?
+Transfers control from called function to calling function .
+
+
+
+
+
+
 
 
 

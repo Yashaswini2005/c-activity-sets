@@ -1,0 +1,16 @@
+Compilation started at 1/28/2024, 6:30:43 PM
+C:\Users\Vinayaka\AppData\Local\Temp\ccY31zCF.o: In function `main':
+c:/Users/Vinayaka/OneDrive/Documents/GitHub/c-activity-sets/set01/problem12.c:14: undefined reference to `get_n'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/28/2024, 6:30:44 PM
+Compilation started at 1/28/2024, 6:33:10 PM
+C:\Users\Vinayaka\AppData\Local\Temp\ccnKSIJj.o: In function `main':
+c:/Users/Vinayaka/OneDrive/Documents/GitHub/c-activity-sets/set01/problem12.c:14: undefined reference to `get_n'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 1/28/2024, 6:33:11 PM
+Compilation started at 1/28/2024, 6:33:41 PM
+Compilation finished at 1/28/2024, 6:33:42 PM
+Compilation started at 1/28/2024, 6:35:42 PM
+Compilation finished at 1/28/2024, 6:35:42 PM
+Compilation started at 1/28/2024, 6:37:08 PM
+Compilation finished at 1/28/2024, 6:37:09 PM
