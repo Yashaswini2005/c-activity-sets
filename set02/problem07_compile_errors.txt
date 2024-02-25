@@ -1,0 +1,7 @@
+Compilation started at 2/25/2024, 7:11:41 PM
+C:\Users\Vinayaka\AppData\Local\Temp\ccUeHHeo.o: In function `main':
+c:/Users/Vinayaka/OneDrive/Documents/GitHub/c-activity-sets/set02/problem07.c:24: undefined reference to `input_triangle'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 2/25/2024, 7:11:42 PM
+Compilation started at 2/25/2024, 7:12:13 PM
+Compilation finished at 2/25/2024, 7:12:13 PM

@@ -1,37 +1,43 @@
-#include <stdio.h>
-#include <string.h>
+/* Write a program to find the area of a triangle.
 
-void input_string(char *a);
-void str_reverse(char *str, char *rev_str);
-void output(char *a, char *reverse_a);
+***Function Declarations***
+```c
+typedef struct _triangle {
+	float base, altitude, area;
+} Triangle;
 
-int main() {
-    char input[100];
-    char reversed[100];
+Triangle input_triangle();
+void find_area(Traingle *t);
+void output(Triangle t);
+```*/
 
-    input_string(input);
-    str_reverse(input, reversed);
-    output(input, reversed);
+#include<stdio.h>
+typedef struct _triangle{
+    float base,altitude,area;
 
-    return 0;
+}Triangle;
+Triangle input_triangle();
+void find_area(Triangle *t);
+void output(Triangle t);
+int main(){
+    Triangle t;
+   t=input_triangle();
+   find_area(&t);
+   output(t);
+   return 0; 
 }
-
-void input_string(char *a) {
-    printf("Enter a string: ");
-    scanf("%s", a);
-}
-
-void str_reverse(char *str, char *rev_str) {
-    int length = strlen(str);
-    int i, j;
-
-    for (i = length - 1, j = 0; i >= 0; i--, j++) {
-        rev_str[j] = str[i];
+Triangle input_triangle(){
+    Triangle t;
+    printf("Enter the base of thr triangle:");
+    scanf("%f",&t.base);
+    printf("Enter the triangle altitude:");
+    scanf("%f",&t.altitude);
+    return t;
     }
-    rev_str[j] = '\0';
-}
+    void find_area(Triangle *t){
+        t->area=0.5*(t->base)*(t->altitude);
 
-void output(char *a, char *reverse_a) {
-    printf("Original String: %s\n", a);
-    printf("Reversed String: %s\n", reverse_a);
+    }
+void output(Triangle t){
+    printf("The triangle with base %f and altitude %f has an area of %f",t.base,t.altitude,t.area);
 }
