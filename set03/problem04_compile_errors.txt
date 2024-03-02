@@ -1,0 +1,42 @@
+Compilation started at 3/2/2024, 8:31:52 PM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c: In function 'main':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:5:7: warning: implicit declaration of function 'input' [-Wimplicit-function-declaration]
+     n=input();
+       ^~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:6:10: warning: implicit declaration of function 'find_fibo' [-Wimplicit-function-declaration]
+     fibo=find_fibo(n);
+          ^~~~~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:7:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(n,fibo);
+     ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c: At top level:
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:24:6: warning: conflicting types for 'output'
+ void output(int n,int fibo){
+      ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:7:5: note: previous implicit declaration of 'output' was here
+     output(n,fibo);
+     ^~~~~~
+Compilation finished at 3/2/2024, 8:31:53 PM
+Compilation started at 3/2/2024, 8:32:38 PM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c: In function 'main':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:5:7: warning: implicit declaration of function 'input' [-Wimplicit-function-declaration]
+     n=input();
+       ^~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:6:10: warning: implicit declaration of function 'find_fibo' [-Wimplicit-function-declaration]
+     fibo=find_fibo(n);
+          ^~~~~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:7:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(n,fibo);
+     ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c: At top level:
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:24:6: warning: conflicting types for 'output'
+ void output(int n,int fibo){
+      ^~~~~~
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set03\problem04.c:7:5: note: previous implicit declaration of 'output' was here
+     output(n,fibo);
+     ^~~~~~
+Compilation finished at 3/2/2024, 8:32:38 PM
+Compilation started at 3/2/2024, 8:35:55 PM
+Compilation finished at 3/2/2024, 8:35:56 PM
+Compilation started at 3/2/2024, 8:37:10 PM
+Compilation finished at 3/2/2024, 8:37:10 PM
