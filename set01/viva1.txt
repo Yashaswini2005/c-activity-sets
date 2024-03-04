@@ -1,47 +1,47 @@
-what is #
+1.what is #
 it indicates the lines which has to be preprocessed by the preprocesser
  
-what is preprocceser?
+2.what is preprocceser?
 which converts source code to  before compilation
 basically we can we see #lines before preprocessing but after preprocessing we cannot see the lines starting with #
 
-what is compiler?
+3.what is compiler?
 converts c source file to executable file 
 
 
-what is preproccessor directive ?
+4.what is preproccessor directive ?
 tells preprocessor what to do
 
-what is the effect of #include<stdio.h>?
+5.what is the effect of #include<stdio.h>?
 Contains function prototype of printf and scanf.
 
-what is stdio.h?
+6.what is stdio.h?
 library header file contains input and output functions
 
-what is function prototype?
+7.what is function prototype?
 consists of return typr,function name,and list of arguments
 
 
-what is the use of function prototype?
+8.what is the use of function prototype?
 checks function call is passing right numbers and type of parameters and return value is assined to a right value 
 what is main()?
 it is a function 
  
  =Main is the starting part of a program
 
-what does main return?
+9.what does main return?
 an integer value.
 
-what is printf?
+10.what is printf?
 printf is a stdlibrary function used to print a string on the console terminal .
 
-what is meaning of "\"  in printf?
+11.what is meaning of "\"  in printf?
 it is an escape sequence.
 
-what is \n?
+12.what is \n?
 move cursor to next line in the console terminal .
 
-what is return 0?
+13.what is return 0?
 Transfers control from called function to calling function .
 
 

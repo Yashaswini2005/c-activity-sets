@@ -1,4 +1,7 @@
-#include<stdio.h>
+//what is fabs?
+//why to use only this method instead of using direct sqroot method
+ 
+ #include<stdio.h>
 #include<math.h>
 float input();
 float square_root(float n);
@@ -29,9 +32,12 @@ float square_root(float n)
     }
         return x_new;
 
-    }
+    }//Show how it works
 
 void output(float n,float sqrroot)
-{printf("square root of %f is %f",n,sqrroot);}
+{
+    printf("square root of %f is %f",n,sqrroot);
+}
+
 
     

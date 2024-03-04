@@ -1,0 +1,8 @@
+Compilation started at 2/12/2024, 2:04:38 PM
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\struct.c: In function 'main':
+c:\Users\Vinayaka\OneDrive\Documents\GitHub\c-activity-sets\set01\struct.c:12:1: error: expected ';' before '}' token
+ }
+ ^
+Compilation finished at 2/12/2024, 2:04:39 PM
+Compilation started at 2/12/2024, 2:04:52 PM
+Compilation finished at 2/12/2024, 2:04:53 PM
